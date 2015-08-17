@@ -8,7 +8,7 @@
 
 #import "FeatureViewController.h"
 
-@interface FeatureViewController ()
+@interface FeatureViewController ()<UIScrollViewDelegate>
 
 @property (nonatomic, strong) UIScrollView *scrollView;
 @property (nonatomic, strong) NSArray *backgroundImageNames;
