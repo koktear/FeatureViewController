@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  FeatureViewController.h
 //  FeatureViewController
 //
 //  Created by David_Tian on 15/8/17.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface FeatureViewController : UIViewController
 
 @end
-
